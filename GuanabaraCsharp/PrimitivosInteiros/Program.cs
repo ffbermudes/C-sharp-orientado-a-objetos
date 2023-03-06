@@ -42,7 +42,7 @@ namespace TiposPrimitivos
             Console.WriteLine("O tipo decimal vai de " + decimal.MinValue + " até " + decimal.MaxValue + "\n");
             // -79228162514264337593543950335 até 79228162514264337593543950335 || Usa 16 bytes (128 bits)
 
-            Console.WriteLine("O tipo bool vai de " + bool.FalseString + " até " + bool.TrueString + "\n");
+            Console.WriteLine("O tipo bool tem dois valores " + bool.FalseString + " e " + bool.TrueString + "\n");
             // True e False || Usa 1 bit
             Console.ReadKey();
         }
