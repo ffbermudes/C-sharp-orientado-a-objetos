@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\bin\Debug\comantarios.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\bin\Debug\comantarios.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\bin\Debug\comantarios.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\obj\Debug\Comentarios.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\obj\Debug\Comentarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\obj\Debug\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\obj\Debug\comantarios.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\comantarios\obj\Debug\comantarios.pdb

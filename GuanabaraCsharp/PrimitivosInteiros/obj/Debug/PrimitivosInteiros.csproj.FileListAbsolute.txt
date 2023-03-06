@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\bin\Debug\PrimitivosInteiros.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\bin\Debug\PrimitivosInteiros.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\bin\Debug\PrimitivosInteiros.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\obj\Debug\PrimitivosInteiros.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\obj\Debug\PrimitivosInteiros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\obj\Debug\PrimitivosInteiros.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\obj\Debug\PrimitivosInteiros.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\PrimitivosInteiros\obj\Debug\PrimitivosInteiros.pdb
