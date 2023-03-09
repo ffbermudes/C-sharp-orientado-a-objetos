@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\bin\Debug\variaveisConstantes.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\bin\Debug\variaveisConstantes.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\bin\Debug\variaveisConstantes.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\obj\Debug\variaveisConstantes.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\obj\Debug\variaveisConstantes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\obj\Debug\variaveisConstantes.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\obj\Debug\variaveisConstantes.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\variaveisConstantes\obj\Debug\variaveisConstantes.pdb

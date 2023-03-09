@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\bin\Debug\conversoesTipo.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\bin\Debug\conversoesTipo.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\bin\Debug\conversoesTipo.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\obj\Debug\conversoesTipo.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\obj\Debug\conversoesTipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\obj\Debug\conversoesTipo.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\obj\Debug\conversoesTipo.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\GuanabaraCsharp\conversoesTipo\obj\Debug\conversoesTipo.pdb
