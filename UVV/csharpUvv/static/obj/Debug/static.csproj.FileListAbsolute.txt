@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\bin\Debug\@static.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\bin\Debug\@static.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\bin\Debug\@static.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\obj\Debug\static.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\obj\Debug\static.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\obj\Debug\static.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\obj\Debug\@static.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\static\obj\Debug\@static.pdb

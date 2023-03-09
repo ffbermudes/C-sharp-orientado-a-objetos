@@ -1,0 +1,8 @@
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\bin\Debug\ArrayMatrizes.exe.config
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\bin\Debug\ArrayMatrizes.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\bin\Debug\ArrayMatrizes.pdb
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\obj\Debug\ArrayMatrizes.csproj.AssemblyReference.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\obj\Debug\ArrayMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\obj\Debug\ArrayMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\obj\Debug\ArrayMatrizes.exe
+C:\Users\Filipe\source\repos\C-sharp-orienta-o-a-objeto\UVV\csharpUvv\ArrayMatrizes\obj\Debug\ArrayMatrizes.pdb
