@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMatrizes", "ArrayMatri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMatrizes2", "ArrayMatrizes2\ArrayMatrizes2.csproj", "{1DA9F4F8-AF66-4285-88E0-9AF69CBE834B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMatrizes3", "ArrayMatrizes3\ArrayMatrizes3.csproj", "{34611999-39C5-4A4C-AFC9-FCE7243E8B9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1DA9F4F8-AF66-4285-88E0-9AF69CBE834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DA9F4F8-AF66-4285-88E0-9AF69CBE834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DA9F4F8-AF66-4285-88E0-9AF69CBE834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34611999-39C5-4A4C-AFC9-FCE7243E8B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34611999-39C5-4A4C-AFC9-FCE7243E8B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34611999-39C5-4A4C-AFC9-FCE7243E8B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34611999-39C5-4A4C-AFC9-FCE7243E8B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

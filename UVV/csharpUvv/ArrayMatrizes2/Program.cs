@@ -26,13 +26,8 @@ namespace ArrayMatrizes2
             }
             int[,] Matriz = colocaValoresNaMatriz();
 
-            ////forEach
-            //foreach (int linha in Matriz)
-            //{
-            //    Console.WriteLine(linha);
-            //}
+            /// 
 
-            //for
             for (int i = 0; i < 3; i++)
             {
                 for (int c = 0; c < 4; c++)
